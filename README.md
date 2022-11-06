@@ -16,4 +16,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 4) `Fill the data` in the form and `without submit`, hit the `block` link. in this case a `confirmation popup` should come with a message `Are you sure you want to leave the page`. on `Yes` page will redirect and on `Cancel` page will not redirect. 
 5) If form is blank, in that case no need to show confirmation popup
 6) We have to achieve this functionality with `CanDeactivate`
+
+## Reference 
+
+[Icon Bootstrap](https://icons.getbootstrap.com/)
+
+[Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
    
